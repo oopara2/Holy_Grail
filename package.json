@@ -1,0 +1,15 @@
+{
+  "name": "holy_grail",
+  "version": "1.0.0",
+  "description": "node app for holy grail",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "oopara1@outlook.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "redis": "^4.0.2"
+  }
+}
